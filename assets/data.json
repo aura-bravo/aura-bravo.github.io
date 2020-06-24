@@ -5,14 +5,14 @@
     "description": "Isaac Ambel Yoga is a Yoga instructor based in Badajoz, Spain. The objective of the page was to share his trajectory as well as his approach to yoga, and to give information about the classes he impart in two different yoga centers in the city. The client wanted his web page to reflect peace and calm, also to show yoga both as a physical and a spiritual activity, but always keeping a modern and clean look.",
     "previewImage":"./assets/img/moc2.jpg",
     "mainImage": "./assets/img/moc12.jpg",
-    "coverImage": "./assets/img/Recurso2logo.png",
+    "coverImage": "./assets/img/Recurso2logo.jpg",
     "colors": ["#BBBECC", "#7994BF", "#83CDCE", "#262C30"],
     "fonts":  ["Poppins"],
     "collageImage1": "../assets/img/MOC1.jpg",
     "collageImage2": "../assets/img/moc6.jpg",
     "collageImage3": "../assets/img/moc3.jpg",
     "collageImage4": "../assets/img/moc4.jpg",
-    "fullHomePage": "../assets/img/moc5.png"
+    "fullHomePage": "../assets/img/moc5.jpg"
   },
   {
     "id": "infinite-love",
@@ -27,7 +27,7 @@
     "collageImage2": "../assets/img/moc8.jpg",
     "collageImage3": "../assets/img/moc9.jpg",
     "collageImage4": "../assets/img/moc13.jpg",
-    "fullHomePage": "../assets/img/MOC15.png"
+    "fullHomePage": "../assets/img/MOC15.jpg"
   },
   {
     "id": "llama-path",
