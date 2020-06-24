@@ -2,7 +2,7 @@
   {
     "id": "yoga-isaac-ambel",
     "title":"Yoga Isaac Ambel",
-    "description": "Isaac Ambel Yoga is a Yoga instructor based in Badajoz, Spain. The objective of the page was to share his trayectory as well as his approach to yoga, and to give imformation about the classes he impart in two different yoga centers in the city. The client eanted his web page to reflect peace an calm, also to show yoga both as a fisical and an espiritual activity, but always keeping a modern and clean look.",
+    "description": "Isaac Ambel Yoga is a Yoga instructor based in Badajoz, Spain. The objective of the page was to share his trajectory as well as his approach to yoga, and to give information about the classes he impart in two different yoga centers in the city. The client wanted his web page to reflect peace and calm, also to show yoga both as a physical and a spiritual activity, but always keeping a modern and clean look.",
     "previewImage":"./assets/img/moc2.jpg",
     "mainImage": "./assets/img/moc12.jpg",
     "coverImage": "./assets/img/Recurso2logo.png",
@@ -17,7 +17,7 @@
   {
     "id": "infinite-love",
     "title":"Infinite Love",
-    "description": "Infinite Love is a Jewelery brand based in Trujillo Perú, inspired at the great brands like cartier, graff and gucci, the client wanted an elegant but modern page. A very clean and clear pge that let the product take protagonism. The colors were choosen according to the logo.",
+    "description": "Infinite Love is a Jewelery brand based in Trujillo Perú, inspired by brands like Cartier, Graff and Gucci. The client wanted an elegant but modern page.  A very clean and clear website that let the product take protagonism and transmit luxuriousness. The colors were choosen according to the logo and the typographies give the design a delicate and sophisticated touch.",
     "previewImage":"./assets/img/moc10.jpg",
     "mainImage": "../assets/img/moc14.jpg",
     "coverImage": "../assets/img/moc11.jpg",
@@ -28,5 +28,20 @@
     "collageImage3": "../assets/img/moc9.jpg",
     "collageImage4": "../assets/img/moc13.jpg",
     "fullHomePage": "../assets/img/MOC15.png"
+  },
+  {
+    "id": "llama-path",
+    "title":"Llama Path",
+    "description": "Llama Path is a professional tour operator based in Cusco, Peru. They offer a variety of treks and tours all over Peru, including the Inca Trail and a variety of alternative treks to Machu Picchu. They wanted to keep the structure and colors from their old website but giving a much modern and cleaner look.",
+    "previewImage":"./assets/img/llama_path_1.jpg",
+    "mainImage": "../assets/img/llama_path_1.jpg",
+    "coverImage": "../assets/img/portada_llama_path.jpg",
+    "colors": ["#FFFFFF", "#D91111", "#FCB040", "#C0C0C0"],
+    "fonts":  ["Poppins"],
+    "collageImage1": "../assets/img/llama_path_1.jpg",
+    "collageImage2": "../assets/img/llama_path_2.jpg",
+    "collageImage3": "../assets/img/llama_path_3.jpg",
+    "collageImage4": "../assets/img/llama_path_4.jpg",
+    "fullHomePage": "../assets/img/full_home_llama_path.jpg"
   }
  ]
